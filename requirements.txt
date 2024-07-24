@@ -1,6 +1,7 @@
 streamlit
+requests
 folium
 geopy
-requests
 gtfs-realtime-bindings
-streamlit-folium
+prettymaps
+pandas
